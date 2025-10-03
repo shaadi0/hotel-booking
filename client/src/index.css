@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+*{
+  font-family: Outfit;;
+}
+
+.font-playfair{
+  font-family: Playfair !important;
+}
+
+@theme {
+  --color-primary: #2e86ab;    
+  --color-primary-dull: #f6d55c; 
+
+}
